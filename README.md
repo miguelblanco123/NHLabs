@@ -16,10 +16,10 @@ The algorithm developed for the Real-Time Emotion Detection achieved better resu
 ## How to use
 1- Download the [DEAP Dataset's](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html) preprocessed data in python format using the credentials provided by Queen Mary University of London. You should save these files under a folder named 'datos' inside your workspace.
 
-2- Download the .yml file located in this Github, and follow the next steps to create an environment using this file. 
-  2a- Download NeuroEmociones.yml into your desired folder.
-  2b- Using the Anaconda Prompt, change directory to the one where NeuroEmociones.yml is located using 'cd (insert directory)'
-  2c- Use the command 'conda env create -f NeuroEmociones.yml' to create a new environment
+2- Download the .yml file located in this Github, and follow the next steps to create an environment using this file. \
+  2a- Download NeuroEmociones.yml into your desired folder.\
+  2b- Using the Anaconda Prompt, change directory to the one where NeuroEmociones.yml is located using 'cd (insert directory)'\
+  2c- Use the command 'conda env create -f NeuroEmociones.yml' to create a new environment\
 
 3- Download CargarDatos.ipynb and Model.ipynb into your folder.
 
