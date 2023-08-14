@@ -1,4 +1,4 @@
-name: alas
+name: NeuroEmociones
 channels:
   - defaults
 dependencies:
