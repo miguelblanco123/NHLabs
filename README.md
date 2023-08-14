@@ -13,3 +13,5 @@ The main objective of this project is to develop a real-time emotion detection s
 ## Results
 The algorithm developed for the Real-Time Emotion Detection achieved better results (92-93% accuracy) than the ones found in consulted literature (88% accuracy). The algorithm focuses on predicting the given emotions, and for further research, it is recommended to consider additional information.
 
+## How to use
+1- Download the [DEAP Dataset's](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html) preprocessed data in python format.
