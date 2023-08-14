@@ -26,3 +26,7 @@ The algorithm developed for the Real-Time Emotion Detection achieved better resu
 4- Run CargarDatos.ipynb to preprocess all the .dat files into an easy to use numpy file. 
 
 5- Once CargarDatos.ipynb is done running, go ahead and create your own ML models, or run Model.ipynb to get several .pkl models to use on your projects. 
+
+## Real Time Use with OpenBCI Helmet
+
+por agregar
